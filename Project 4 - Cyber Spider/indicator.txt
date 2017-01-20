@@ -1,0 +1,14 @@
+http://www.foo.com/bar
+qqqqqa.exe
+qqqqqc.exe
+http://www.bar.com/bletch
+qqqqqd.exe
+qqqqqf.exe
+http://www.boo.edu/abc
+qqqqqg.exe
+qqqqqh.exe
+g1.exe
+g3.exe
+g4.exe
+g6.exe
+http://www.bad.com
